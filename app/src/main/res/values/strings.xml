@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="defaultTextViewValue">0</string>
+    <string name="error">ERROR</string>
+</resources>
